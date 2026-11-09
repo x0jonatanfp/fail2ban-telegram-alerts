@@ -39,7 +39,7 @@
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/x0-jonatanfp/fail2ban-telegram-alerts.git
+git clone https://github.com/x0jonatanfp/fail2ban-telegram-alerts.git
 cd fail2ban-telegram-alerts
 ```
 
